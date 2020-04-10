@@ -6,7 +6,7 @@ Snake is the common name for a video game concept where the player maneuvers a l
 Go to [wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) for more information !
 
 <h1 align="center">
-  <img src="https://i.imgur.com/Fkthu3x.png" width="50%" height="50%">
+  <img src="https://i.imgur.com/Fkthu3x.png" width="30%" height="30%">
 </h1>
 
 Game Play
