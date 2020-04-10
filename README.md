@@ -6,7 +6,7 @@ Snake is the common name for a video game concept where the player maneuvers a l
 Go to [wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) for more information !
 
 <h1 align="center">
-  <img src="https://i.imgur.com/Fkthu3x.png">
+  <img src="https://i.imgur.com/Fkthu3x.png" width="50%" height="50%">
 </h1>
 
 Game Play
@@ -29,20 +29,20 @@ Sqlite
 Screenshots
 --------
 <h1 align="center">
-  <img src="https://i.imgur.com/QqSFDvt.png">
+  <img src="https://i.imgur.com/QqSFDvt.png" width="50%" height="50%">
 </h1>
 <h1 align="center">
-  <img src="https://i.imgur.com/ZiqI08M.png">
+  <img src="https://i.imgur.com/ZiqI08M.png" width="50%" height="50%">
 </h1>
 <h1 align="center">
-  <img src="https://i.imgur.com/r4qwH6k.png">
+  <img src="https://i.imgur.com/r4qwH6k.png" width="50%" height="50%">
 </h1>
 <h1 align="center">
-  <img src="https://i.imgur.com/QBPGOnC.png">
+  <img src="https://i.imgur.com/QBPGOnC.png" width="50%" height="50%">
 </h1>
 <h1 align="center">
-  <img src="https://i.imgur.com/U12bKlf.png">
+  <img src="https://i.imgur.com/U12bKlf.png" width="50%" height="50%">
 </h1>
 <h1 align="center">
-  <img src="https://i.imgur.com/TkIN8dO.png">
+  <img src="https://i.imgur.com/TkIN8dO.png" width="50%" height="50%">
 </h1>
